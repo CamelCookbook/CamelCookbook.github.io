@@ -1,0 +1,13 @@
+# Site settings
+title: Apache Camel Developer's Cookbook
+email: nobody-home@camelcookbook.org
+description: > # this means to ignore newlines until "baseurl:"
+  The companion site to the Apache Camel Developer's Cookbook.
+  Full of Good Stuff™ for Your Integration Needs.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://camelcookbook.github.io" # the base hostname & protocol for your site
+twitter_username: CamelCookbook
+github_username:  CamelCookbook
+
+# Build settings
+markdown: kramdown
